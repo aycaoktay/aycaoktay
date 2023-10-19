@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayça</h1>
-<h3 align="center">A Computer Engireering Student</h3>
+<h3 align="center">A Computer Engineering Student</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aycaoktay&label=Profile%20views&color=0e75b6&style=flat" alt="aycaoktay" /> </p>
 <div align="center"><img src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" width="400" height="250"  /> </div>
 <br>
