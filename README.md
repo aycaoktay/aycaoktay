@@ -7,7 +7,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aycaoktay&theme=onedark&title=Issues,Repositories,PullRequest,Commit,Followers,Stars" alt="aycaoktay" /></a> </p>
 <div align="center">
 <p >
- 🌱 I’m currently learning **NodeJS**
+ 🌱 I’m currently learning **Virtualization**
 
  📝 My personal page [LinkedIn](https://www.linkedin.com/in/ayca-oktay/)
 
