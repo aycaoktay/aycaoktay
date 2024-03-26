@@ -4,7 +4,8 @@
 <div align="center"><img src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" width="400" height="250"  /> </div>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aycaoktay&theme=onedark&title=Issues,Repositories,PullRequest,Commit,Followers,Stars" alt="aycaoktay" /></a> </p>
+<p align="center"> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aycaoktay&theme=onedark&title=Issues,Repositories,PullRequest,Commit,Followers,Stars" alt="aycaoktay" /></a> </p>
 <div align="center">
 <p >
  🌱 I’m currently learning **DevOps tools**
@@ -18,38 +19,37 @@
 
 <h3 align="center">🔗 Social:</h3>
 <p align="center">
-<a href="https://www.hackerrank.com/oktayca03?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aycaoktay" height="40" width="40" /></a>
-<a href="https://medium.com/@oktayca" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="40" /></a>
-<a href="https://academy.patika.dev/tr/profile" target="blank" rel=”noopener”><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/oktayca03?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aycaoktay" height="50" width="50" /></a>
+<a href="https://medium.com/@oktayca" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="50" width="50" /></a>
+<a href="https://academy.patika.dev/tr/profile" target="blank" rel=”noopener”><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" height="50" width="50" /></a>
  
 </p>
--------------------------------------------
-<h3 align="center">Technologies:</h3>
+
+<h2 align="center">Technologies:</h2>
 <p align="center"> 
 <h3 align="center">Frontend:</h3> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TS" width="33" height="30"/> </a> 
-<a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="33" height="30"/> </a> 
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> 
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="50" height="50"/> </a> 
 
 <h3 align="center">Backend:</h3> 
-<a href="https://nodejs.org/en" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="react" width="33" height="30"/> </a> 
-
-
-
-
-
-  </p>
+<a href="https://nodejs.org/en" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="react" width="50" height="50"/> </a> 
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+</p>
 <p align="center"> 
 <h3 align="center">Tools:</h3>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/tr/vs/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo-500x313.png" alt="vs" width="60" height="40"/> </a> 
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsvbbAckLz4S8SzptLnR4A2cLK5tmojrIH3BDvY4&s" alt="androidstudio" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" width="40" height="40"/> </a> 
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="50" height="50"/> </a>
+<a href="https://visualstudio.microsoft.com/tr/vs/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo-500x313.png" alt="vs" width="50" height="50"/> </a> 
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsvbbAckLz4S8SzptLnR4A2cLK5tmojrIH3BDvY4&s" alt="androidstudio" width="50" height="50"/> </a> 
+<a href="https://www.figma.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" width="50" height="50"/> </a> 
+
 </a> 
 
 </p>
